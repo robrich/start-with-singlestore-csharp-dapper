@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "deAqvY4eRl9MS19CdgNRYaXQ0641DDorvGZKoHVU2/yANnUPXpiQhSuIE6Foo8iSwryqI2Wh7TWdPyAfghQtoQ==",
+  "success": true,
+  "projectFilePath": "/Users/ntime/Documents/Work/Learning/DapperMemsqlConsole/DapperMemsqlConsole.csproj",
+  "expectedPackageFiles": [
+    "/Users/ntime/.nuget/packages/dapper/2.0.35/dapper.2.0.35.nupkg.sha512",
+    "/Users/ntime/.nuget/packages/mysqlconnector/0.62.0/mysqlconnector.0.62.0.nupkg.sha512",
+    "/Users/ntime/.nuget/packages/system.reflection.emit.lightweight/4.7.0/system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

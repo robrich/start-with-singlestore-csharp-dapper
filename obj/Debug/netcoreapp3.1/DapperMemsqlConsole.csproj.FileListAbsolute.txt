@@ -1,0 +1,15 @@
+/Users/ntime/Documents/Work/Learning/DapperMemsqlConsole/bin/Debug/netcoreapp3.1/DapperMemsqlConsole.deps.json
+/Users/ntime/Documents/Work/Learning/DapperMemsqlConsole/bin/Debug/netcoreapp3.1/DapperMemsqlConsole.runtimeconfig.json
+/Users/ntime/Documents/Work/Learning/DapperMemsqlConsole/bin/Debug/netcoreapp3.1/DapperMemsqlConsole.runtimeconfig.dev.json
+/Users/ntime/Documents/Work/Learning/DapperMemsqlConsole/bin/Debug/netcoreapp3.1/DapperMemsqlConsole.dll
+/Users/ntime/Documents/Work/Learning/DapperMemsqlConsole/bin/Debug/netcoreapp3.1/DapperMemsqlConsole.pdb
+/Users/ntime/Documents/Work/Learning/DapperMemsqlConsole/bin/Debug/netcoreapp3.1/Dapper.dll
+/Users/ntime/Documents/Work/Learning/DapperMemsqlConsole/obj/Debug/netcoreapp3.1/DapperMemsqlConsole.csprojAssemblyReference.cache
+/Users/ntime/Documents/Work/Learning/DapperMemsqlConsole/obj/Debug/netcoreapp3.1/DapperMemsqlConsole.csproj.CoreCompileInputs.cache
+/Users/ntime/Documents/Work/Learning/DapperMemsqlConsole/obj/Debug/netcoreapp3.1/DapperMemsqlConsole.AssemblyInfoInputs.cache
+/Users/ntime/Documents/Work/Learning/DapperMemsqlConsole/obj/Debug/netcoreapp3.1/DapperMemsqlConsole.AssemblyInfo.cs
+/Users/ntime/Documents/Work/Learning/DapperMemsqlConsole/obj/Debug/netcoreapp3.1/DapperMemsqlConsole.csproj.CopyComplete
+/Users/ntime/Documents/Work/Learning/DapperMemsqlConsole/obj/Debug/netcoreapp3.1/DapperMemsqlConsole.dll
+/Users/ntime/Documents/Work/Learning/DapperMemsqlConsole/obj/Debug/netcoreapp3.1/DapperMemsqlConsole.pdb
+/Users/ntime/Documents/Work/Learning/DapperMemsqlConsole/obj/Debug/netcoreapp3.1/DapperMemsqlConsole.genruntimeconfig.cache
+/Users/ntime/Documents/Work/Learning/DapperMemsqlConsole/bin/Debug/netcoreapp3.1/MySqlConnector.dll
