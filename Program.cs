@@ -9,7 +9,8 @@ namespace DapperMemsqlConsole
     {
         static void Main(string[] args)
         {  
-            MySqlConnection connection = new MySqlConnection("server=173.249.51.78;Uid=ntime;database=ZilloDb;port=3306;password=P@ssw0rd");
+            MySqlConnection connection = new MySqlConnection("server=173.249.51.78;Uid=ntime;database=ZilloDb;port=3306;password=P@ssw0rd;checkparameters=false;");
+            // need `checkparameters=false` for stored procedures because there's no `mysql` database, it's named `information_schema` in MemSQL
            //var testTableList = connection.Query<TestTable>("Select * From TestTable;").AsList();
            try
             {
